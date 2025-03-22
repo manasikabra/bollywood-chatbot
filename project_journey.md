@@ -12,6 +12,7 @@
 It all started with a post by [Mat Miller on X](https://x.com/matdmiller/status/1899656268719050758), where he shared:
 
 > *"It's just a single file that's ~100 lines of code to make it easy to work with and easy to paste into your favorite LLM."*
+> *"This repo serves as an example reference design for a basic AI chatbot built using FastHTML and Monster UI."*
 
 This piqued my interest—it sounded minimal, manageable, and worth exploring.
 
