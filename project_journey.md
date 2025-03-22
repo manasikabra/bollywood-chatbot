@@ -5,17 +5,6 @@
 
 ---
 
-### 🛠️ Tech Stack:
-- `FastHTML` + `MonsterUI` – UI framework
-- `OpenAI GPT-4` – response engine
-- `Cursor` – dev environment
-- `Railway` – cloud deployment
-
-> 💻 **Note:** I’ve developed and tested this project on **macOS**. Some setup steps (like package installation or file paths) may vary slightly across operating systems.\
-> 📬 *Feel free to reach out if you need help adapting this to Windows or Linux!*
-
----
-
 # 📅 Project Journey: Building My Chatbot
 
 ### Step 1: Discovering the Idea
