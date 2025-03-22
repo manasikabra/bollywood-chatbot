@@ -19,7 +19,7 @@
 
 1. **Set up the project in Cursor**
    - Create a new folder and `main.py` filversion
-   - Copy-paste the code from the repo (or [Mat Miller's repo on X, which inspired this whole project idea](https://x.com/matdmiller/status/1899656268719050758))
+   - Copy-paste the code from the repo (or [Mat Miller's repo on X, which enabled me to create this chatbot](https://x.com/matdmiller/status/1899656268719050758))
 
 2. **Create and activate a virtual environment**
    - Requires system-wide install of [`uv`](https://github.com/astral-sh/uv)
