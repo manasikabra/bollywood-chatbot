@@ -1,0 +1,4 @@
+python-fasthtml
+monsterui
+openai
+python-dotenv
