@@ -5,6 +5,8 @@
 **🚀 Live Demo**: *https://gabbar-singh-gpt-production.up.railway.app/*  
 **💻 GitHub Repo**: *https://github.com/mansikabra/bollywood-chatbot*
 
+> PS: **Copied the original code from [Mat Miller’s GitHub repository](https://github.com/matdmiller/fasthtml_chat), which served as the foundation and inspiration for building this chatbot. Full credit to him for the elegant, minimal base that made this project possible.**
+
 ---
 
 ### 🛠️ Tech Stack:
@@ -12,8 +14,6 @@
 - `OpenAI GPT-4` – response engine
 - `Cursor` – dev environment
 - `Railway` – cloud deployment
-
-> PS: **Copied the original code from [Mat Miller’s GitHub repository](https://github.com/matdmiller/fasthtml_chat), which served as the foundation and inspiration for building this chatbot. Full credit to him for the elegant, minimal base that made this project possible.**
 
 ---
 
