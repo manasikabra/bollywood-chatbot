@@ -282,7 +282,7 @@ You can now:
 Want to update the live chatbot after code changes?
 
 ```bash
-railway init
+railway link
 railway up
 ```
 
